@@ -3,7 +3,7 @@
 
 Learn step-by-step
 
-In a video that plays in a split-screen with your work area, your instructor will walk you through these steps:
+You will walk you through these steps:
 
     Task 1: Import the modules that will do all the work
     Task 2: Import the data
